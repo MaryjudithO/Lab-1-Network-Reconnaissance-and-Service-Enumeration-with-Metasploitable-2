@@ -101,3 +101,8 @@ The assessment followed a structured reconnaissance process:
 - vsFTPd 2.3.4 is associated with historical security vulnerabilities.
 - Telnet is enabled and transmits information in plaintext.
 - SMBv1 is enabled and considered insecure.
+
+⚠️ Authorisation
+
+This project was completed as part of the ICDFA Cybersecurity and Digital Forensics Programme in an authorised lab environment. All activities were conducted only against the designated Metasploitable 2 training target.
+Do not use the techniques or commands in this repository against any system without explicit permission from the system owner. This repository is provided for educational and training purposes only.
